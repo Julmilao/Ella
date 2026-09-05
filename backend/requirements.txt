@@ -1,0 +1,11 @@
+apscheduler>=3.11,<4
+fastapi>=0.116,<1
+google-api-python-client>=2.177,<3
+google-auth>=2.40,<3
+httpx>=0.28,<1
+playwright>=1.54,<2
+playwright-stealth>=1.0,<2
+pydantic[email]>=2.11,<3
+reportlab>=4.4,<5
+supabase>=2.18,<3
+uvicorn[standard]>=0.35,<1
